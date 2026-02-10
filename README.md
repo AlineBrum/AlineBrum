@@ -31,3 +31,10 @@ Tenho formação em Análise e Desenvolvimento de Sistemas e atualmente concentr
   Experimentos e aprendizados práticos
   Repositórios educacionais
   Ideias em construção 🚧
+
+<div align="center">
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
