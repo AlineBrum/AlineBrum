@@ -33,11 +33,13 @@ Tenho formação em Análise e Desenvolvimento de Sistemas e atualmente concentr
 * Repositórios educacionais
 * Ideias em construção 🚧
 
-  <div align="center">
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlineBrum&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlineBrum&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBrum&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlineBrum&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlineBrum&theme=tokyonight)
 
 </div>
 
