@@ -88,13 +88,3 @@ Sistema inteligente de gestão de estoque para profissionais autônomos, desenvo
 
  *Construindo software hoje para desenvolver as soluções inteligentes de amanhã.*
  
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlineBrum&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlineBrum&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlineBrum&theme=tokyonight)
-
-</div>
-
